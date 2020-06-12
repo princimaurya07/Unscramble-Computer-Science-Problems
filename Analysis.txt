@@ -1,0 +1,11 @@
+---considering n as a general parameter for all records in a list or set.---
+for Task0.py:
+Time Complexity is O(1) as i used constant time for finding both record.
+for Task1.py:
+Time Complexity is O(n) as i used "for loop" for both the records separately so n+n gave order of O(n).
+for Task2.py:
+Time Complexity is O(n) as i used "for loop" for lookup for values in calls record o(n)and "for loop" for finding key in dictionary o(n). 
+for Task3.py:
+Time Complexity is O(n*n) as i used "nested for loop" that is of order O(n*n), used sort function O(nlogn) and another "for loop" for printing values O(n) so overall complexity is O(n*n)
+for Task4.py:
+Time Complexity is O(n*n) as i used "nested for loop" o(n*n),sort function o(nlogn) and "for loop" for printing required elements in list o(n) so overall complexity is o(n*n). 
