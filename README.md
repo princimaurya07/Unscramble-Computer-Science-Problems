@@ -1,10 +1,9 @@
 # Unscramble-Computer-Science-Problems
 Project 1 of  Data Structures &amp; Algorithms Nanodegree Program!!
-Investigating Texts and Calls
-Project Overview
+# Project Overview # Investigating Texts and Calls
 In this project, you will complete five tasks based on a fabricated set of calls and texts exchanged during September 2016. You will use Python to analyze and answer questions about the texts and calls contained in the dataset. Lastly, you will perform run time analysis of your solution and determine its efficiency.
 
-About the data
+# About the data
 The text and call data are provided in csv files.
 
 The text data (text.csv) has the following columns: sending telephone number (string), receiving telephone number (string), timestamp of text message (string).
